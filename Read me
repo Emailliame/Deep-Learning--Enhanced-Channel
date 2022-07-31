@@ -1,0 +1,8 @@
+With the increase in popularity of attention based mechanism for various computer vision tasks like Image Captioning, Object detection, Segmentation etc, improving the
+representation power of a CNN is crucial. In traditional attention based mechanisms the input to the attention module
+is the adjacent convolutional layer only. Our work will be
+on enhancing the quality of feature maps extracted from a
+CNN using a channel-wise attention based mechanism that
+incorporates features from previous convolution layers using skip connections. We aim at comparing the generated
+feature maps with state-of-art models and report our observations.
+
